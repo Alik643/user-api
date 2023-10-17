@@ -1,0 +1,9 @@
+/.idea
+/vendor
+/node_modules
+/public/build
+/public/storage
+.env
+.editorconfig
+.gitattributes
+.env.example
